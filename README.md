@@ -1,4 +1,4 @@
-# Jon-Babb Project Page
+# Jon-Babb
 
-<a href="lab1/index.html" target="_blank">Project 1</a>
+<a href="lab1/index.html" target="_blank">lab 1</a>
 
