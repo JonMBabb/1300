@@ -1,4 +1,4 @@
 # Jon-Babb
 
-<a href="jon-babb/index.html" target="_blank">lab 1</a>
+<a href="lab1/index.html" target="_blank">jon-babb</a>
 
