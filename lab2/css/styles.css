@@ -70,7 +70,7 @@ main h2 {
 
 main img {
     display: block;
-    width: 60% 0%;
+    width: 60%;
     margin: 20px auto;
     background-color: #900944;
     padding: 20px;
@@ -79,7 +79,7 @@ main img {
 
 footer {
     background-color: #20cfb2;
-    padding: 60px 0;
+    padding: 60px;
     color: pink;
     font-size: 1.5em;
     text-align: center;
