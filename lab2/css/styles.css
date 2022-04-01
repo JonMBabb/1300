@@ -1,0 +1,98 @@
+body {
+    background-color: #2E56A6;
+    font-family: 'Bakbak One', cursive;
+    
+}
+
+#container {
+    background-color: #52F2F2;
+    width: 1000px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 3px 3px 100px #000;
+}
+
+header {
+    padding-top: 20px;
+    background-color: #23c9d4ec;
+    border-radius: 20px 20px 0 0;
+    
+}
+
+header img {
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #F2AED4;
+}
+
+nav {
+    background-color: #D3BCD8;
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    background-color: #A6B1CC;
+    height: 50px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bolder;
+    line-height: 50px;
+    color: #900944;
+    text-decoration: none;
+    border-radius: 15px 15px 0 0;
+    margin: 0 10px;
+}
+nav a:hover {
+    background-color: #900944;
+    color:#20cfb2;
+}
+
+main {
+    background-color: #20cfb2;
+    padding: 20px;
+    margin: 0 20px 20px 20px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+main h2 {
+    text-align: center;
+    color: #2E56A6;
+    font-size: 2em;
+}
+
+main img {
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+    background-color: #900944;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #20cfb2;
+    padding: 60 px 0;
+    color: pink;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+
+.active {
+    background-color: #900944;
+    color:#20cfb2;
+}
+
+.pro_head {
+    text-align: center;
+    color: #900944;
+    font-size: 1.5em;
+}
