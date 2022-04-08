@@ -6,3 +6,6 @@
 
 <a href="lab2/index.html" target="_blank">lab2</a><br>
 
+<a href="lab3/index.html" target="_blank">lab3</a><br>
+
+
